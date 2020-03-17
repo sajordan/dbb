@@ -15,6 +15,7 @@
       *       MONTHLY PAYMENT
       *
       *    (C) 2008 IBM - Jim Hildner
+      *    SAJ
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
        SOURCE-COMPUTER. FLEX-ES.
