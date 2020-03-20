@@ -1,0 +1,8 @@
+Build/MortgageApplication/cobol_cics/epscsmrd.cbl
+Build/MortgageApplication/cobol_cics/epscsmrt.cbl
+Build/MortgageApplication/copybook/epsmortf.cpy
+Build/MortgageApplication/copybook/epsmtcom.cpy
+Build/MortgageApplication/copybook/epsmtinp.cpy
+Build/MortgageApplication/copybook/epsmtout.cpy
+Build/MortgageApplication/copybook/epsnbrpm.cpy
+Build/MortgageApplication/copybook/epspdata.cpy
