@@ -15,6 +15,7 @@
        DATA DIVISION.
        WORKING-STORAGE SECTION.
       *
+      *    SAJ
        01  W-FLAGS.
            10  W-SEND-FLAG                    PIC X.
                88  SEND-ERASE                   VALUE '1'.
