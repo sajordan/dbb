@@ -2,6 +2,7 @@ pipeline {
     agent any
     stages {
         stage('Git Source') {
+            steps {
         git credentialsId: '0ae75ced-068a-40df-94e0-fb3f9a3089c7', url: 'https://github.com/sajordan/dbb.git'    
         }
         stage('Build') {
