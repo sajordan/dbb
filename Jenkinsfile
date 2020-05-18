@@ -26,4 +26,15 @@ pipeline {
             }
         }
     }
+   post {
+      always {
+          echo 'Always message - Ran it'
+      }
+      failure {
+          echo 'Pipeline job failed'
+      }
+      success {
+          echo 'Pipeline job succeeded'
+      }         
+   }           
 }
